@@ -1,4 +1,4 @@
-Usage: redir <inp> "<cmd>" <out>
+Usage: redir inp cmd out
 
 fork and exec "cmd", redirecting the input and output descriptors as necessary. Assume the values inp and out are filenames, read from and write to them respectively. If they are "-" leave them as stdin/stdout.
 
