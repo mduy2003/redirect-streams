@@ -1,0 +1,9 @@
+total 28
+-rwxrwxrwx 1 mduy2003 mduy2003    46 Oct 25 17:24 Makefile
+-rwxrwxrwx 1 mduy2003 mduy2003   768 Oct 25 16:49 README.md
+-rwxrwxrwx 1 mduy2003 mduy2003  2674 Oct 25 18:25 command.c
+-rwxrwxrwx 1 mduy2003 mduy2003   220 Oct 25 17:49 command.h
+-rwxrwxrwx 1 mduy2003 mduy2003     0 Oct 25 18:19 input.txt
+-rwxrwxrwx 1 mduy2003 mduy2003   469 Oct 25 17:32 main.c
+-rwxrwxrwx 1 mduy2003 mduy2003     0 Oct 25 18:26 output.txt
+-rwxrwxrwx 1 mduy2003 mduy2003 17088 Oct 25 18:26 redir
