@@ -7,6 +7,6 @@
 #define MAX_ARGS 100
 #define MAX_BUFFER 1024
 
-char *execute_command(char *command, FILE *input_file);
+char *execute_command(char *command, int input_fd);
 
 #endif // COMMAND_H
